@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "paths": { "~/*": ["./src/*"] },
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "experimentalDecorators": true,
+  },
+}
