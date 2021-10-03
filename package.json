@@ -8,7 +8,11 @@
   },
   "devDependencies": {},
   "scripts": {
-    "dev": "ts-node src/main.ts"
+    "accessor": "ts-node src/accessor.ts",
+    "class": "ts-node src/class.ts",
+    "method": "ts-node src/method.ts",
+    "parameter": "ts-node src/parameter.ts",
+    "property": "ts-node src/property.ts"
   },
   "author": "Ryo Komiyama",
   "license": "ISC"
